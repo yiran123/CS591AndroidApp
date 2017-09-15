@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yiranpan/Documents/Divide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="74c4804dbe2a1dfb1ccda240fbb5431f2ce60e8f">
+        <dex dex="/Users/yiranpan/Documents/Divide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21629fa45b69fc0fa613df05ab6f911be66443d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiranpan/Documents/Divide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yiranpan/Documents/Divide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b6a0d7b2dee6975f097f556ab8121e5173c4c8fb/classes.dex" />
+    </item>
+
+</items>
